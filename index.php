@@ -7,6 +7,8 @@
     <title>Inside House Agencia Web</title>
 </head>
 <body>
-    
+    <?php
+        echo "Olá Mundo";
+    ?>
 </body>
 </html>
